@@ -6,7 +6,7 @@ https://prunes.notion.site/CTINFMGL-Project-Database-Configuration-33fc4525aa544
 Intstructions for Eclipse IDE Configuration:           
 https://prunes.notion.site/Eclipse-IDE-Configuration-Dynamic-Website-72f1b1b0403d4b048b060be4a4056637?pvs=4      
 
-References:
+References:          
 https://www.youtube.com/watch?v=zdWfyBXO2iU&t=2505s *  
 https://www.youtube.com/watch?v=N2ubYjIxQKw        
 https://www.youtube.com/watch?v=AOyiqgW45ws           
